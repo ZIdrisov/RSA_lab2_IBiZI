@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Test results and coverage
+TestResults/
+coverage/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet and package caches
+packages/
+*.nupkg
+*.snupkg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Generated RSA control examples
+TestFiles/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
